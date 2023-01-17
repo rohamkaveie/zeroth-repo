@@ -1,3 +1,3 @@
 # Hello-github
 
-Suppose this is my first repo on GitHub :)
+Suppose this is my zeroth repo on GitHub :)
